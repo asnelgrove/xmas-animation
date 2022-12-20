@@ -2,7 +2,7 @@ This is a sinlge page app consisting of an interior Holiday scene made of SVGs t
 
 Click a button to change parts of the scene. Some things are evn animated!
 
-Click twice on a button to turn off a feature.
+Click a button a second time to turn off a feature.
 
 Happy Holidays!
 
