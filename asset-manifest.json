@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xmas-animation/static/css/main.840e4d6c.css",
+    "main.js": "/xmas-animation/static/js/main.ae28eb2f.js",
+    "index.html": "/xmas-animation/index.html",
+    "main.840e4d6c.css.map": "/xmas-animation/static/css/main.840e4d6c.css.map",
+    "main.ae28eb2f.js.map": "/xmas-animation/static/js/main.ae28eb2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840e4d6c.css",
+    "static/js/main.ae28eb2f.js"
+  ]
+}
